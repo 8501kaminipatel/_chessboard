@@ -1,0 +1,46 @@
+body
+{
+    background-color: whitesmoke;
+
+}
+#box
+{
+    height: 800px;
+    width: 800gpx;
+    margin-left: 350px;
+}
+.a
+{
+    height: 100px;
+    width: 800px;
+}
+.b
+{
+    height: 100px;
+    width: 100px;
+    background-color:white;
+    float: left;
+}
+.c
+{
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+    float: left;
+}
+.b img
+{
+    position: relative;
+    top: 10%;
+    left: 10%;
+    bottom: 10%;
+}
+.c img
+{
+    position: relative;
+    top: 10%;
+    left: 10%;
+    bottom: 10%;
+}
+
+
